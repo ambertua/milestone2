@@ -44,6 +44,7 @@ Css
 
 # Deployment
 https://dashboard.render.com/web/new
+https://pokedex-of-anomalies.onrender.com/
 
 # Authors
 Damon Herrera
